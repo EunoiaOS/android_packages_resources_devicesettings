@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2013-2016 The CyanogenMod Project
-                   2017-2022 The LineageOS Project
+                   2024 The EunoiaOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -51,16 +51,16 @@
     <string name="touchscreen_swipe_left_title">向左滑动</string>
     <string name="user_aware_display_title">用户感知显示</string>
     <string name="user_aware_display_summary">当使用者在屏幕前时保持屏幕开启</string>
-    <string name="ambient_display_title">环境显示</string>
+    <string name="ambient_display_title">主动显示</string>
     <string name="ambient_display_enable_title">使用主动显示</string>
     <string name="ambient_display_enable_summary">当接收到通知时唤醒屏幕</string>
-    <string name="ambient_display_gestures_title">环境显示手势</string>
+    <string name="ambient_display_gestures_title">主动显示手势</string>
     <string name="ambient_display_gestures_summary">唤醒屏幕的附加手势</string>
     <string name="ambient_display_summary">当接收到通知时唤醒屏幕</string>
     <string name="ambient_display_summary_on">当接收到通知时将唤醒屏幕</string>
     <string name="ambient_display_summary_off">当接收到通知时将不会唤醒屏幕</string>
     <string name="ambient_display_always_on_title">始终开启</string>
-    <string name="ambient_display_always_on_summary">显示时间、通知图标和其他信息。这会增加电池使用量。</string>
+    <string name="ambient_display_always_on_summary">显示时间、通知图标和其他信息。这会增加耗电量。</string>
     <string name="tilt_sensor_title">倾斜传感器</string>
     <string name="pickup_sensor_title">拾取传感器</string>
     <string name="proximity_sensor_title">距离传感器</string>
@@ -77,6 +77,8 @@
     <string name="proximity_wake_enable_title">距离传感器唤醒</string>
     <string name="proximity_wake_enable_summary">挥手时唤醒设备</string>
     <string name="actions_title">操作</string>
+    <string name="device_gestures_panel_summary">特殊设备手势</string>
+    <string name="moto_gestures_panel_title">Moto 手势</string>
     <string name="camera_gesture_title">扭动两次</string>
     <string name="camera_gesture_summary">当扭动两次时打开相机</string>
     <string name="chop_chop_gesture_title">摇动两次</string>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2013-2016 The CyanogenMod Project
-                   2017-2022 The LineageOS Project
+                   2024 The EunoiaOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -77,6 +77,8 @@
     <string name="proximity_wake_enable_title">Aufwecken bei Annäherung</string>
     <string name="proximity_wake_enable_summary">Gerät durch Winken aufwecken</string>
     <string name="actions_title">Aktionen</string>
+    <string name="device_gestures_panel_summary">Spezielle Geräte-Gesten</string>
+    <string name="moto_gestures_panel_title">Moto-Gesten</string>
     <string name="camera_gesture_title">Doppeldrehung</string>
     <string name="camera_gesture_summary">Kamera starten bei Verwendung der Geste Doppeldrehung</string>
     <string name="chop_chop_gesture_title">Hacken</string>

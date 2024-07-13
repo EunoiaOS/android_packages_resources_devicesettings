@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2013-2016 The CyanogenMod Project
-                   2017-2022 The LineageOS Project
+                   2024 The EunoiaOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -77,6 +77,8 @@
     <string name="proximity_wake_enable_title">Bujenje ob bližini</string>
     <string name="proximity_wake_enable_summary">Zbudi napravo ob mahanju z roko</string>
     <string name="actions_title">Dejanja</string>
+    <string name="device_gestures_panel_summary">Posebne poteze naprave</string>
+    <string name="moto_gestures_panel_title">Poteze Moto</string>
     <string name="camera_gesture_title">Dvojno zvijanje</string>
     <string name="camera_gesture_summary">Odpri fotoaparat ob potezi dvojnega zvijanja</string>
     <string name="chop_chop_gesture_title">Dvakratno navpično tresenje</string>
@@ -85,7 +87,7 @@
     <string name="hand_wave_silencer_summary">Utišaj dohodne klice z mahanjem roke preko zaslona</string>
     <string name="flip_to_mute_title">Obračanje za \'Ne moti\'</string>
     <string name="flip_to_mute_summary">Obrnite telefon s sprednjo stranjo navzdol za utišanje obvestil in klicev</string>
-    <string name="dnd_access">Odobrite dostop »Ne moti« za CMActions, da mu dovolite uporabo te značilnosti.</string>
+    <string name="dnd_access">Odobrite dostop »Ne moti« za CMActions, da mu dovolite uporabo te funkcije.</string>
     <string name="lift_to_silence_title">Dvig za utišanje zvonjenja</string>
     <string name="lift_to_silence_summary">Dvignite telefon za utišanje dohodnih klicev. Deluje samo, ko je telefon v vodoravnem položaju.</string>
     <string name="action_none">Onemogoči</string>
@@ -100,7 +102,7 @@
     <string name="dialog_ok">V redu</string>
     <string name="disabled">Onemogočeno</string>
     <string name="doze_settings_help_title">Pomoč</string>
-    <string name="doze_settings_help_text">Te značilnosti uporabljajo dogodke tipal za sprožitev utripajočih obvestil ob spanju. Izbrano tipalo se omogoči samo, ko naprava prejme obvestilo. To pomaga zmanjšati porabo baterije. Obstaja tudi možnost omogočanja izbranega tipala, takoj ko se zaslon izklopi, vendar bo to povzročilo višjo porabo baterije.</string>
+    <string name="doze_settings_help_text">Te funkcije uporabljajo dogodke tipal za sprožitev utripajočih obvestil ob spanju. Izbrano tipalo se omogoči samo, ko naprava prejme obvestilo. To pomaga zmanjšati porabo baterije. Obstaja tudi možnost omogočanja izbranega tipala, takoj ko se zaslon izklopi, vendar bo to povzročilo višjo porabo baterije.</string>
     <string name="button_panel_title">Dodatni gumbi</string>
     <string name="button_swap_title">Zamenjaj gumbe</string>
     <string name="button_swap_summary">Zamenjaj vrstni red gumbov Nedavno in Nazaj</string>
